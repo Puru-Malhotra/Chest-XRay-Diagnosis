@@ -12,19 +12,33 @@ Visualize model activity using GradCAMs
 
 The model is trained for detecting the following medical conditions on a given Xray:
 1.'Cardiomegaly' 
-2.'Emphysema' 
+
+2.'Emphysema'
+
 3.'Effusion'
+
 4.'Hernia'
+
 5.'Infiltration' 
+
 6.'Mass'
+
 7.'Nodule'
+
 8.'Atelectasis'
+
 9.'Pneumothorax'
+
 10.'Pleural_Thickening' 
+
 11.'Pneumonia' 
+
 12.'Fibrosis' 
+
 13.'Edema'
+
 14.'Consolidation'
+
 
 
 **This assignment is a part of AI for medical Diagnosis certification on Coursera by depplearning.ai and is present as week 1 assignment
