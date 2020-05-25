@@ -42,4 +42,4 @@ The model is trained for detecting the following medical conditions on a given X
 
 
 
-**This assignment is a part of AI for medical Diagnosis certification on Coursera by depplearning.ai and is present as week 1 assignment
+**This assignment is a part of AI for medical Diagnosis certification on Coursera by depplearning.ai and is present as week 1 and week 2 assignment respectively
