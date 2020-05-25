@@ -3,14 +3,15 @@ A medical image diagnosis by building a state-of-the-art chest X-ray classifier 
 
 In particular we will:
 
-Pre-process and prepare a real-world X-ray dataset
-Use transfer learning to retrain a DenseNet model for X-ray image classification
-Learn a technique to handle class imbalance
-Measure diagnostic performance by computing the AUC (Area Under the Curve) for the ROC (Receiver Operating Characteristic) curve
-Visualize model activity using GradCAMs
+~Pre-process and prepare a real-world X-ray dataset
+~Use transfer learning to retrain a DenseNet model for X-ray image classification
+~Handle class imbalance
+~Measure diagnostic performance by computing the AUC (Area Under the Curve) for the ROC (Receiver Operating Characteristic) curve
+~Visualize model activity using GradCAMs
 
 
 The model is trained for detecting the following medical conditions on a given Xray:
+
 1.'Cardiomegaly' 
 
 2.'Emphysema'
